@@ -1,5 +1,4 @@
 https://spencer07.github.io/ships/
-**Recommended To Use Google Chrome For Best Use Of This Website**
 <!DOCTYPE html>
 <html>
 <head>
